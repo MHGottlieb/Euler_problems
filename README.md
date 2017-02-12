@@ -1,5 +1,5 @@
 # Euler_problems
-Just me solving the problems from project Euler
+Just me solving the problems from project Euler, mainly with R
 
 See the problems at https://projecteuler.net/
 
